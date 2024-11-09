@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=absxl&label=Profile%20views&color=0e75b6&style=flat" alt="absxl" /> </p>
-
 - Nothing huge to see here,
 
 - My site [absxl.github.io](absxl.github.io)
